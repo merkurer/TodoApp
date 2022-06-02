@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "921151847466",
+    "project_id": "merkurer-b9917",
+    "storage_bucket": "merkurer-b9917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921151847466:android:a0b4bcc40b9c9bfc0d9753",
+        "android_client_info": {
+          "package_name": "com.example.merkurer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921151847466-q01bh09tkuh6uba4cv4p73diegegbffi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.merkurer",
+            "certificate_hash": "7f361ae18d24d07d99d466184385323734d62645"
+          }
+        },
+        {
+          "client_id": "921151847466-6bcunp67emlibcba7bhrs49n3b4a58iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF7p3m3PYmuOlLQb7TkJh3riBJ8Y1Q-wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921151847466-6bcunp67emlibcba7bhrs49n3b4a58iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
